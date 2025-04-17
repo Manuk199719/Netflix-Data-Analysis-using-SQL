@@ -29,6 +29,9 @@ The dataset used for this project is obtained from Kaggle, containing details ab
 - **SQL** : For querying and analyzing the dataset.
 - **PostgreSQL** : To execute SQL queries and perform data manipulation.
 
+- ## Technical Skills:
+- Data Cleaning, Data Wrangling, Joins & Subqueries, Aggregation Functions, CASE Statements, Window Functions, 
+
 
 ## Business Problems Solved
 
